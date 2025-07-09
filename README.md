@@ -28,5 +28,5 @@ This project aims to provide insights into employee demographics, performance, a
 - 💼 Role & Education Level Breakdown
   
 ## 📸 Screenshots
-
+https://github.com/shivani123456781/HR-Analytics/blob/main/HR_Analytics.PNG
 
